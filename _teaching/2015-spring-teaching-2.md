@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Palmerston North, New Zealand"
 ---
 
-I have taught into this final-year coursesince 2023. First as tutor and assistan lectur, then as full lecturer and course co-ordinator.  
+I have taught into this final-year course since 2023. First as tutor and assistant lecturer, then as full lecturer and course co-ordinator.  
 
 This is a psychometrics course in which we cover the theory of testing (CTT, IRT), and the design, validation, and use of psychometric instruments. Students also get hands on experience designing measures and using survey data and statistical software to assess the validity of their measure. 
 
