@@ -1,10 +1,10 @@
 ---
-title: "175.203 Intorduction to Psychological research"
+title: "175.203 Introduction to Psychological research"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Massey University"
-date: 
+date: 2022-05-05
 location: "Palmerston North, New Zealand"
 ---
 
