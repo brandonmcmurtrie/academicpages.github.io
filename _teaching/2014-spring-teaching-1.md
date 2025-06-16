@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "175.203 Intorduction to Psychological research"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Massey University"
+date: 
+location: "Palmerston North, New Zealand"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have taught into this course since 2022, first as tutor, then as assistant lecturer, then as lecturer and course co-ordinator. 
 
-Heading 1
-======
+This course provides an introduction to philossophy of science, research methods for the social sciences, and statistics for the social sciences. It introduces students to cross-sectional designs, experiments, quasi-experiemtns, descriptive and inferential statistics, and JAMOVI statistical software. 
 
-Heading 2
-======
+I design and deliver lectures and labs, administer assignments, organise a team of postgraduate markers, finalise grades, handle pastoral care and special circumstances, etc.
 
-Heading 3
-======
