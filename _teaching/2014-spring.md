@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Palmerston North, New Zealand"
 ---
 
-I have taught into this course for two years. I delivered lectures, administered and marked assignments, ran labs, etc. 
+I have into this course for two years. I delivered lectures, administered and marked assignments, ran labs, etc. 
 
 This course is an introduction to neuropsychology and biology. 
 
