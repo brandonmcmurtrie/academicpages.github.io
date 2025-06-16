@@ -1,7 +1,7 @@
 ---
 title: "175.306 -	Assessment of Individual Differences"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Massey University"
 date: 2023-01-01
