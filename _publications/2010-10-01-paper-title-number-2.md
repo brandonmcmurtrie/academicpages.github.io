@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Investigating the dimensions of mind perception"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'Mind perception is the ability to infer the presence of a mind in other beings or non-living things (eg, a tree, an animal, a robot) and make judgements about what" kind" of mind that being possesses. Research has shown that there is a dimensionality to the schema of mind perception, though the number of dimensions is debated. The present study aimed to explore the dimensions via a mind perception scale that measures participants’ perceptions of mental capacities (n= 181). The data was highly suited for factor analysis, so principal axis factoring and multiple criteria were used to find the retained factors. Findings suggest a two-dimensional model of mind perception, supporting the field’s landmark study by Gray et al.(2007).'
+date: 2023-10-02
+venue: 'Journal of European Psychology Students'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+citation: 'McMurtrie, B. L. (2023). Investigating the Dimensions of Mind Perception. Journal of European Psychology Students, 14(1), 54–68. https://doi.org/10.59477/jeps.594
+'
