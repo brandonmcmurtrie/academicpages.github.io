@@ -16,6 +16,7 @@ I am I final year PhD candidate and social scientist.
 🧑‍🍳 I am also an outdoorsman and a wannabe amateur wild-foods chef, a former 🥝Kiwifruit orchardist at one of the largest orchards in the Southern Hemisphere, and an 🪖infantryman in the New Zealand Army territorial Force (Army reserves), in 5/7 Battalion based out of Linton Army Camp.
 
 **Open to work and collaborations**
+
 Though I am currently emplyed full-time as a Lecturer in psychology at Massey University, I am open to additional part-time opportunities—research projects, consulting, or collaborations. 
 I have exprience with independent research, project management, survey design and administration, statistical analysis (mostly in R, but also in SAS, SPSS, and JAMOVI), student project supervision, tutoring, and lecturing.
 
