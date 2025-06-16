@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-12-07
 venue: 'OSF'
 slidesurl:
-paperurl: '[https://osf.io/preprints/psyarxiv/gca56_v1](https://doi.org/10.31234/osf.io/msn4z)'
+paperurl: 'https://doi.org/10.31234/osf.io/msn4z'
 bibtexurl: 
 citation: 'McMurtrie, B. (2024, July 12). Differences in affective polarization, need for closure, intellectual humility, identity strength, and authoritarianism among Liberals and Conservatives: A secondary data analysis of McMurtrie  (2024). https://doi.org/10.31234/osf.io/msn4z'
 ---
