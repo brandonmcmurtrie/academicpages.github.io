@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "On the iatrogenic effect of sensitivetopics survey research: A scoping review."
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Self-report surveys are popular among researchers due to their convenience and, recently, the need for social distancing. However, there is concern that surveys investigating sensitive topics, such as suicide, may cause distress or harm to participants. Iatrogenic harm is any negative effect caused by an instrument, intervention, or treatment. I conducted a scoping review of the studies investigating the potential for iatrogenic harm from survey research. Thirty-seven studies were included. Results indicate that for a small subset of participants, sensitive-topics research can cause some distress. Usually, these participants also report that their participation was important and display a willingness to participate further. However, more randomised controlled trials based on power analyses and using validated psychometric outcome measures are needed.'
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Journal of European Psychology Students'
+slidesurl: 
+paperurl: 'https://doi.org/10.59477/jeps.601'
+citation: 'McMurtrie, B. L. (2023). On the Iatrogenic Effect of Sensitive-Topics Survey Research: A Scoping Review. Journal of European Psychology Students, 14(1). https://doi.org/10.59477/jeps.601'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
