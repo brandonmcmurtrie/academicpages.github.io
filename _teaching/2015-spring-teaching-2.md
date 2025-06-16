@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "175.306 -	Assessment of Individual Differences"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Massey University"
+date: 2023-01-01
+location: "Palmerston North, New Zealand"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have taught into this final-year coursesince 2023. First as tutor and assistan lectur, then as full lecturer and course co-ordinator.  
 
-Heading 1
-======
+This is a psychometrics course in which we cover the theory of testing (CTT, IRT), and the design, validation, and use of psychometric instruments. Students also get hands on experience designing measures and using survey data and statistical software to assess the validity of their measure. 
 
-Heading 2
-======
-
-Heading 3
-======
