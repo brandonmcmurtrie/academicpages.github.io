@@ -1,5 +1,5 @@
 ---
-title: "Development and Validation of the Affective Polarization Scale"
+title: "Development and Validation of the Affective Polarization Scale" 
 collection: publications
 category: 
 permalink: /publication/2024-02-17-paper-title-number-4
