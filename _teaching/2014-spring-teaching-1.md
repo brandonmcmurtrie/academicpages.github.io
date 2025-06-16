@@ -1,5 +1,5 @@
 ---
-title: "175.203 Introduction to Psychological research"
+title: "175.203 Introduction to Psychological Research"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
