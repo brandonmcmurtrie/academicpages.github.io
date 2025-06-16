@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Evidence for a positive relationship between perceived stress and belief in conspiracy theories [Preprint]"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Perceived stress has previously been implicated in the belief of conspiracies, with some authors suggesting that stress can precipitate increased belief in conspiracy theories. This preregistered survey study aimed to replicate findings by Swami et al. (2016) showing a positive correlation between belief in conspiracy theories and perceived stress. 372 Australian and New Zealand residents participated. Beliefs in conspiracy theories were measured using 11 items drawn mainly from existing scales (α = .87). Perceived stress was measured using the 10-item Perceived Stress Scale (PSS; α = .91).The average level of endorsement of conspiracy theories was relatively low (M= 1.89 on a Likert scale from 1 to 5; SD= 0.72). Supporting our hypothesis, we found a significant and positive correlation between perceived stress and belief in conspiracy theories, r(370) = .20, p = .001, 95% CI [.096, .292]. Future work could investigate the causal mechanism producing this association.'
+date: 2022
+venue: 'OSF'
+slidesurl:
+paperurl: '[[http://academicpages.github.io/files/paper1.pdf](https://osf.io/preprints/psyarxiv/gca56_v1)]'
+bibtexurl: 
+citation: 'Williams, M. N., Anderson, R. C., Fox, N., Skinner, C. M., & McMurtrie, B. (2022, January 9). Evidence for a positive relationship between perceived stress and belief in conspiracy theories. https://doi.org/10.31234/osf.io/gca56'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
