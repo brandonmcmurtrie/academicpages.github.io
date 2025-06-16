@@ -10,3 +10,4 @@ slidesurl:
 paperurl: 'https://jeps.efpsa.org/articles/10.59477/jeps.594?_rsc=mww0u'
 citation: 'McMurtrie, B. L. (2023). Investigating the Dimensions of Mind Perception. Journal of European Psychology Students, 14(1), 54–68. https://doi.org/10.59477/jeps.594
 '
+---
