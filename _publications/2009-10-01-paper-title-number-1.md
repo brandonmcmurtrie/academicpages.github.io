@@ -7,7 +7,7 @@ excerpt: 'Perceived stress has previously been implicated in the belief of consp
 date: 2022
 venue: 'OSF'
 slidesurl:
-paperurl: '[[http://academicpages.github.io/files/paper1.pdf](https://osf.io/preprints/psyarxiv/gca56_v1)]'
+paperurl: 'https://osf.io/preprints/psyarxiv/gca56_v1'
 bibtexurl: 
 citation: 'Williams, M. N., Anderson, R. C., Fox, N., Skinner, C. M., & McMurtrie, B. (2022, January 9). Evidence for a positive relationship between perceived stress and belief in conspiracy theories. https://doi.org/10.31234/osf.io/gca56'
 ---
