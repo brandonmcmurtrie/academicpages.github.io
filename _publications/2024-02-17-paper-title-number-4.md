@@ -1,6 +1,7 @@
 ---
-title: "Does answering survey questions about mental health cause distress?" 
+title: "Does answering survey questions about mental health cause distress? [In Press]" 
 collection: publications
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2024-02-17 
