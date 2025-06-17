@@ -17,7 +17,8 @@ I am I final year PhD candidate and social scientist.
 
 **Open to work and collaborations**
 
-Though I am currently emplyed full-time as a Lecturer in psychology at Massey University, I am open to additional part-time opportunities—research projects, consulting, or collaborations. 
+Though I am currently employed full-time as a Lecturer in psychology at Massey University, I am open to additional part-time opportunities—research projects, consulting, or collaborations. 
+
 I have exprience with independent research, project management, survey design and administration, statistical analysis (mostly in R, but also in SAS, SPSS, and JAMOVI), student project supervision, tutoring, and lecturing.
 
 
