@@ -2,7 +2,7 @@
 title: "175.306 -	Assessment of Individual Differences"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Massey University"
 date: 2023-01-01
 location: "Palmerston North, New Zealand"
