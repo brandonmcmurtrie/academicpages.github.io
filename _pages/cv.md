@@ -18,17 +18,20 @@ Education
 
 Work experience
 ======
+* PhD Research, 2023 - Present
+  * Scale development, longitduinal research, complex structural equation modelling. Published and in press. 
+
 * Senior Editor, 2025 - Present 
   * Europe's Journal Of Psychology,
-  * Duties include: Receiving submissions, finding reviewers, manging peeer review. 
+  * Duties include: Receiving and appraising submissions, liasing wit authors, recruiting reviewers, manging peer review. 
 
 
 * Research officer, 2021 - 2024
-  * Massey niversity
+  * Massey University
   * Projects:
-  * -	Stakeholder research for a Charitable Trust working in drug & alcohol rehabilitation (our research assisted the Trust in receiving government funding).
-  * -	Completed a systematic scoping review and a series of experiments on iatrogenic harm from psychology research (both published), with Dr Matt Williams.
-  * -	The flagship longitudinal study for the Health and Aging Research Team (HART)
+  * Stakeholder research for a Charitable Trust working in drug & alcohol rehabilitation (our research assisted the Trust in receiving government funding).
+  * Completed a systematic scoping review and a series of experiments on iatrogenic harm from psychology research (both published), with Dr Matt Williams.
+  * The flagship longitudinal study for the Health and Aging Research Team (HART)
 
 * Research Assistant, 2024
   * University of Canterbury
@@ -37,7 +40,11 @@ Work experience
   
 Skills
 ======
-* Statistical analysis (primary language is R, but some SAS and SPSS)
+* Statistical analysis
+  * Primary language is R
+  * Some SAS and SPSS
+  * Data collection, merging, cleaning.
+  * Linear models, factor analysis, SEM
 * Survey design and administration:
   * Simple crosss sectional designs
   * Survey experiments
