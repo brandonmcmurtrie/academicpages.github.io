@@ -19,11 +19,11 @@ Education
 Work experience
 ======
 * PhD Research, 2023 - Present
-  * Scale development, longitduinal research, complex structural equation modelling. Published and in press. 
+  * Scale development, longitudinal research, complex structural equation modelling. Published and in press. 
 
 * Senior Editor, 2025 - Present 
-  * Europe's Journal Of Psychology,
-  * Duties include: Receiving and appraising submissions, liasing wit authors, recruiting reviewers, manging peer review. 
+  * Europe's Journal of Psychology,
+  * Duties include: Receiving and appraising submissions, liasing with authors, recruiting reviewers, managing peer review. 
 
 
 * Research officer, 2021 - 2024
