@@ -8,7 +8,7 @@ date: 2022-05-05
 location: "Palmerston North, New Zealand"
 ---
 
-I have taught into this course since 2022, first as tutor, then as assistant lecturer, then as lecturer and course co-ordinator. 
+I am now the course co-ordinator for this course, having taught into this course since 2022, first as tutor, then as assistant lecturer, now as full lecturer and course co-ordinator. 
 
 This course provides an introduction to philosophy of science, research methods for the social sciences, and statistics for the social sciences. It introduces students to cross-sectional designs, experiments, quasi-experiments, descriptive and inferential statistics, and JAMOVI statistical software. 
 
