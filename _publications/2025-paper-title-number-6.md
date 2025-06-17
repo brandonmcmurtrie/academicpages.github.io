@@ -1,5 +1,5 @@
 ---
-title: "Differences in affective polarization, need for closure, intellectual humility, identity strength, and authoritarianism among Liberals and Conservatives [In Press]"
+title: "Differences in affective polarization, need for closure, intellectual humility, identity strength, and authoritarianism among Liberals and Conservatives [Preprint]"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
