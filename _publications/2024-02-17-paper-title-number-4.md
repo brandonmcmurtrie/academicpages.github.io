@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
-date: 2024-02-17 
+date: 2025-12-17 
 venue: 'MetaPsychology - Forthcoming'
 slidesurl:
 paperurl: 'https://osf.io/preprints/psyarxiv/pqnvx_v1'
