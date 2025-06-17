@@ -11,7 +11,7 @@ I am I final year PhD candidate and social scientist.
 
 📝 My research interests are in social and political psychology, specifically as they pertain to polarization and group dynamics. 
 
-🧠 Additonally, I am interested in philosophy of science, metascience, open science practices, and the whole larger project of improving research in social science after its decades-long reckoning with widespread questionable research practices. 
+🧠 Additonally, I am interested in philosophy of science, metascience, open science practices, and the larger project of improving research in social science after its decades-long reckoning with widespread questionable research practices. 
 
 🧑‍🍳 I am also an outdoorsman and a wannabe amateur wild-foods chef, a former 🥝Kiwifruit orchardist at one of the largest orchards in the Southern Hemisphere, and an 🪖infantryman in the New Zealand Army Territorial Force, in the 5/7 Battalion based out of Linton Army Camp.
 
