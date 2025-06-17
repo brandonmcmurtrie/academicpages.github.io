@@ -89,7 +89,7 @@ Non-Academic
 * **Venison For Families,	2022-2024.**
  I ran my own small charity through which I donated wild venison to families in need. I donated home-made mince, steak, and sausages. I personally harvested, processed, and packaged the meat. The charity brought in no money or any other material benefit to me. 
 
-* **Army reserves, 5/7 Battalion, RNZIR, Linton Army Camp., 2020-Present.**
+* **Army reserves, 5/7 Battalion, RNZIR, Linton Army Camp, 2020-Present.**
  I joined the New Zealand territorial army force (TF) in November 2020, graduating from basic training in February 2021. Since then, I have regularly attended many army exercises, large and small, on-base and in the field.
  I have completed army qualifications in self-defence, weapons handling, safety procedures, first aid (civilian and combat), leadership, etc.
  My discipline, focus, determination, fitness, teamwork, and leadership skills are put to the test regularly in the army.
