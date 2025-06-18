@@ -18,20 +18,24 @@ Education
 
 Work experience
 ======
-* PhD Research, 2023 - Present
-  * Scale development, longitudinal research, complex structural equation modelling. Published and in press. 
+* Lecturer in Psychology, 1/2025 - Present
+  * Massey university
+  * Duties include: Course coordinator for 1 postgraduate and 3 undergraduate pychology courses, maintaining online learning environments, design and deliver course content and assignments, supervise a team of tutors and markers, student care, special circumstances, research supervision.  
 
 * Senior Editor, 2025 - Present 
   * Europe's Journal of Psychology,
   * Duties include: Receiving and appraising submissions, liasing with authors, recruiting reviewers, managing peer review. 
 
-
+* Assistant Lecturer, 2023-2024
+  * Massey University
+  * Duties included: Course co-ordinator for 1 undergradate course, assistant lecture for 2 courses. Delivering lectures, maintaining online learning environments, tutoring, marking, administering assignments, student care, mentoring. 
+  
 * Research officer, 2021 - 2024
   * Massey University
   * Projects:
   * Stakeholder research for a Charitable Trust working in drug & alcohol rehabilitation (our research assisted the Trust in receiving government funding).
   * Completed a systematic scoping review and a series of experiments on iatrogenic harm from psychology research (both published), with Dr Matt Williams.
-  * The flagship longitudinal study for the Health and Aging Research Team (HART)
+  * Wroked on the flagship longitudinal study for the Health and Aging Research Team (HART)
 
 * Research Assistant, 2024
   * University of Canterbury
@@ -70,18 +74,20 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service, leadership, other academic experience
+Service, leadership
 ======
 * Senior editor for EJOP
+* Member of the Free Speech Union's professional membership council—The Inter-univesity Council on Academic Freedom.
+* Advisory board member for a mental health charitable organisation, called Mental Hunts (www.mentalhunts.co.nz), working to improve the mental health literacy of New Zealand's rural and hunting communities.  
 * Supervise student Honours Degree research projects
-* Attended, Toulouse Summer School in Quantitative Social Sciences, 2024
-Part 1: The Evolution of Human Sociality, in Toulouse, France. A 2-week, practical 
-conference-course on quantitative methods for the evolutionary social sciences.
-* Attended, Society of Australasian Social Psychologists Summer School, 2023
-Attended the SASP Summer School at St. Hilda’s College, University of Melbourne.
-* Organizer, Cognition and Memory conference, 2022
-I was an organizing committee member for the New Zealand Cognition 
-and Memory conference: http://kiwicam.org/. 
+* Organizer, Cognition and Memory conference, 2022. 
+  * I was an organising committee member for the New Zealand Cognition and Memory conference: http://kiwicam.org/.
+
+Other academic experience
+======
+* Attended, Toulouse Summer School in Quantitative Social Sciences, 2024.
+  * Part 1: The Evolution of Human Sociality, in Toulouse, France. A 2-week, practical conference-course on quantitative methods for the evolutionary social sciences.
+* Attended, Society of Australasian Social Psychologists Summer School, at St. Hilda’s College, University of Melbourne, 2023.
 
 Non-Academic
 ======
