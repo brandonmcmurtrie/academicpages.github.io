@@ -15,6 +15,8 @@ I’m a final-year PhD candidate and social scientist, currently working as a Le
 
 🧠 I also have strong interests in philosophy of science, metascience, and open science practices. I'm passionate about improving the rigor and transparency of research in social science, particularly in the wake of its replication crisis and historical reliance on questionable research practices.
 
+🗣️ I am also a member of the Inter-univesity Council on Academic Freedom for the Free Speech Union, a non-partisan organisation supporting free speech for all in academia, and society in general. Additionally, I am on the advisory board, supporting mental Hunts, an organisation working to improve mental health awareness among New Zealand's rural and hunting communities, and working with the Firearms Safety Authority to improve the efficacy and appropriateness of firearms safety regulations in New Zealand. 
+
 🧑‍🍳 Outside of academia, I’m an outdoorsman and amateur wild-foods cook. I’ve worked as a 🥝 kiwifruit orchardist at one of the largest orchards in the Southern Hemisphere, and I serve as an 🪖 infantryman in the New Zealand Army Territorial Force (5/7 Battalion, Linton Army Camp).
 
 **Open to Collaborations**
